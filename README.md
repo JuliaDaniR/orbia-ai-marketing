@@ -37,7 +37,7 @@
 2. [Ecosistema de Casos de Estudio](#-ecosistema-de-casos-de-estudio)
    - [Caso Principal: Taranis Black (Mobiliario & NR-17)](#1-caso-principal-taranis-black)
    - [Caso Pedagógico: Penélope Skincare (Belleza en Cuidar)](#2-caso-pedagógico-penélope-skincare)
-   - [Motor Multimarca Dinámico (Altiora Tech & Nuevas Empresas)](#3-motor-multimarca-dinámico)
+   - [Motor Multimarca Dinámico (Cualquier Empresa & Sector)](#3-motor-multimarca-dinámico)
 3. [Recorrido de la Plataforma (4 Pasos de la Ruta 2)](#-recorrido-de-la-plataforma)
    - [Paso 1: Matriz Estratégica de Impacto & Resumen Ejecutivo](#paso-1-matriz-estratégica-de-impacto-y-resumen-ejecutivo)
    - [Paso 2: Gobernanza Verbal & Auditor de Tono en Vivo](#paso-2-gobernanza-verbal-y-auditor-de-tono)
@@ -80,10 +80,10 @@ ORBIA no es una interfaz estática; es un entorno multimarca dinámico con persi
 * **Regla de Oro Editorial:** Proporción 3:1 (3 contenidos educativos de valor por cada post de venta).
 * **Skills Propias:** 6 Gems del curso adaptados con paleta magenta (`#C2185B`) y pieles reales sin filtros.
 
-### 3. Motor Multimarca Dinámico (Altiora Tech y Cualquier Empresa)
-* **Creación de Workspaces Limpios:** Permite dar de alta cualquier empresa (ej. **Altiora Tech** — *Software con propósito*).
+### 3. Motor Multimarca Dinámico (Cualquier Empresa o Emprendimiento)
+* **Creación de Workspaces Limpios:** Permite al usuario dar de alta cualquier empresa o negocio real a través del botón **«+ Nueva Empresa»**.
 * **Cero Hardcoding:** Se adapta a **8 sectores comerciales**: Software/Tech, Servicios Profesionales, Salud/Clínicas, Gastronomía, Retail D2C, Educación, Agencia y Negocio General B2B.
-* **Activos Visuales Adaptativos (`AdaptiveBrandVisualCard`):** Si la empresa no es de tecnología ni mobiliario, genera mockups editoriales elegantes con insignias temáticas (`🥐 Gastronomía`, `🩺 Salud`, `⚖️ Servicios`) y directivas de arte sin asignar fotos descontextualizadas.
+* **Activos Visuales Adaptativos (`AdaptiveBrandVisualCard`):** Si la empresa ingresada por el usuario no es de tecnología ni mobiliario, genera mockups editoriales elegantes con insignias temáticas (`🥐 Gastronomía`, `🩺 Salud`, `⚖️ Servicios`) y directivas de arte sin asignar fotos descontextualizadas.
 
 ---
 
