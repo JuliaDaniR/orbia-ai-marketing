@@ -10,12 +10,15 @@
   ---
 
   **Autora:** Julia Daniela Rodriguez  
-  **Proyecto:** AI Marketing OS & Skill Orchestrator  
-  **Versión:** 2.0 (Full Dynamic Multi-Brand & Multi-Provider AI)  
-  **Demo Web:** `http://localhost:5173` | React 18 + Vite 5 + Vanilla CSS
+  **Proyecto:** ORBIA · AI Marketing OS & Skill Orchestrator  
+  **Deploy en Producción:** [https://orbia-ai-marketing.vercel.app/](https://orbia-ai-marketing.vercel.app/)  
+  **Repositorio GitHub:** [https://github.com/JuliaDaniR/orbia-ai-marketing](https://github.com/JuliaDaniR/orbia-ai-marketing)  
+  **Programa:** Challenge ONE AI (G11) — Ruta 2: Marketing de Contenidos con IA (Alura Latam & Oracle ONE)  
 
   ---
 
+  [![Deploy with Vercel](https://img.shields.io/badge/Vercel-Live_Deploy-000000?style=flat-square&logo=vercel)](https://orbia-ai-marketing.vercel.app/)
+  [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/JuliaDaniR/orbia-ai-marketing)
   [![React](https://img.shields.io/badge/React-18.3-61dafb?style=flat-square&logo=react)](https://react.dev/)
   [![Vite](https://img.shields.io/badge/Vite-5.4-646cff?style=flat-square&logo=vite)](https://vitejs.dev/)
   [![Gemini](https://img.shields.io/badge/Google_Gemini-3.8_Flash-4285F4?style=flat-square&logo=google)](https://aistudio.google.com/)
