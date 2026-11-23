@@ -28,7 +28,7 @@ export default function App() {
     if (!saved) return INITIAL_BRANDS;
     try {
       const parsed = JSON.parse(saved);
-      // Auto-migrate any custom tech brands (like Altiora Tech) away from Taranis images
+      // Auto-migrate any custom brands away from Taranis images
       return parsed.map((b) => {
         const isTaranis = b.id === 'taranis-black';
         const isPenelope = b.id === 'penelope-skincare' || (b.name || '').toLowerCase().includes('penélope');
