@@ -1,6 +1,6 @@
 ---
 name: taranis-07-triaje-redes-objeciones
-description: Asistente de Triaje Automatizado en Redes Sociales (<24h) y Rebate de Objeciones B2B de Taranis Black. Clasifica comentarios y mensajes directos de LinkedIn, Instagram y TikTok, responde consultas de catálogo (precios, flete CIF/FOB, garantías), rebate las 5 objeciones comerciales con TCO y deriva leads corporativos a humano (HITL).
+description: "Asistente de Triaje Automatizado en Redes Sociales (<24h) y Rebate de Objeciones B2B de Taranis Black. Clasifica comentarios y mensajes directos de LinkedIn, Instagram y TikTok, responde consultas de catálogo (precios, flete CIF/FOB, garantías), rebate las 5 objeciones comerciales con TCO y deriva leads corporativos a humano (HITL)."
 ---
 
 # Gem 07 — Triaje Automatizado en Redes (<24h) & Objeciones B2B

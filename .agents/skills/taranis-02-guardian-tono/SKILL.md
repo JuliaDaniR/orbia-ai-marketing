@@ -1,6 +1,6 @@
 ---
 name: taranis-02-guardian-tono
-description: Guardián del Tono de Voz de Taranis Black (equivalente al Gem 02 del curso). Audita cualquier borrador de texto con una calificación de 1 a 10 bajo los 4 pilares de la marca (Científico, Empático, Sofisticado, Sencillo), detecta vocabulario prohibido y entrega la versión reescrita.
+description: "Guardián del Tono de Voz de Taranis Black (equivalente al Gem 02 del curso). Audita cualquier borrador de texto con una calificación de 1 a 10 bajo los 4 pilares de la marca (Científico, Empático, Sofisticado, Sencillo), detecta vocabulario prohibido y entrega la versión reescrita."
 ---
 
 # Gem 02 — Guardián del Tono de Voz Taranis Black

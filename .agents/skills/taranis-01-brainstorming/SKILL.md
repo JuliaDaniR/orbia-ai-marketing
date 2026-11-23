@@ -1,6 +1,6 @@
 ---
 name: taranis-01-brainstorming
-description: Asistente de Brainstorming Creativo de Taranis Black (equivalente al Gem 01 del curso). Genera ideas estratégicas de contenido B2B y D2C sobre ergonomía activa, NR-17, alternancia postural y acústica corporativa clasificadas por formato y pilar editorial (Educar, Inspirar, Involucrar).
+description: "Asistente de Brainstorming Creativo de Taranis Black (equivalente al Gem 01 del curso). Genera ideas estratégicas de contenido B2B y D2C sobre ergonomía activa, NR-17, alternancia postural y acústica corporativa clasificadas por formato y pilar editorial (Educar, Inspirar, Involucrar)."
 ---
 
 # Gem 01 — Brainstorming Creativo Taranis Black

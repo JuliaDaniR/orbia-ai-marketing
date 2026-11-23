@@ -1,6 +1,6 @@
 ---
 name: taranis-03-guionista-social
-description: Guionista de Contenido Social de Taranis Black (equivalente al Gem 03 del curso). Crea guiones listos para producción de Reels, TikTok, Carruseles de Instagram y Stories con gancho en los primeros 3 segundos, demostración biomecánica, instrucciones visuales y copy con hashtags.
+description: "Guionista de Contenido Social de Taranis Black (equivalente al Gem 03 del curso). Crea guiones listos para producción de Reels, TikTok, Carruseles de Instagram y Stories con gancho en los primeros 3 segundos, demostración biomecánica, instrucciones visuales y copy con hashtags."
 ---
 
 # Gem 03 — Guionista de Contenido Social Taranis Black

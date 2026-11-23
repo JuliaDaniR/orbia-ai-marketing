@@ -1,6 +1,6 @@
 ---
 name: taranis-08-diagnostico-roi-nr17
-description: Calculadora Consultiva de ROI Ergonómico y Generador de Diagnóstico NR-17 de Taranis Black. Recibe los datos de una empresa prospecto (cantidad de colaboradores, modalidad de trabajo y dolores principales) y genera un informe ejecutivo de costo oculto de ausentismo, pérdida de foco y mix recomendado de productos.
+description: "Calculadora Consultiva de ROI Ergonómico y Generador de Diagnóstico NR-17 de Taranis Black. Recibe los datos de una empresa prospecto (cantidad de colaboradores, modalidad de trabajo y dolores principales) y genera un informe ejecutivo de costo oculto de ausentismo, pérdida de foco y mix recomendado de productos."
 ---
 
 # Gem 08 — Calculadora Consultiva de ROI Ergonómico & Diagnóstico NR-17

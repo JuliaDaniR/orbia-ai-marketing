@@ -1,6 +1,6 @@
 ---
 name: taranis-05-especialista-seo-geo
-description: Especialista en SEO Editorial y GEO (Generative Engine Optimization) de Taranis Black (equivalente al Gem 05 del curso). Investiga palabras clave, preguntas frecuentes (People Also Ask) y criterios E-E-A-T para posicionar artículos sobre ergonomía activa y NR-17 en Google y AI Overviews.
+description: "Especialista en SEO Editorial y GEO (Generative Engine Optimization) de Taranis Black (equivalente al Gem 05 del curso). Investiga palabras clave, preguntas frecuentes (People Also Ask) y criterios E-E-A-T para posicionar artículos sobre ergonomía activa y NR-17 en Google y AI Overviews."
 ---
 
 # Gem 05 — Especialista en SEO & GEO Taranis Black

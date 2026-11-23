@@ -1,6 +1,6 @@
 ---
 name: taranis-00-orquestador-validador
-description: Orquestador Central de Flujos y Validador de Cumplimiento de Taranis Black. Úsalo para planificar por qué skills debe pasar una tarea de marketing antes de ejecutarse o programarse, y para validar el checklist obligatorio de reglas (Tono, NR-17, Catálogo, LGPD y Human-in-the-Loop).
+description: "Orquestador Central de Flujos y Validador de Cumplimiento de Taranis Black. Úsalo para planificar por qué skills debe pasar una tarea de marketing antes de ejecutarse o programarse, y para validar el checklist obligatorio de reglas (Tono, NR-17, Catálogo, LGPD y Human-in-the-Loop)."
 ---
 
 # Orquestador de Flujo & Validador de Reglas — Taranis Black

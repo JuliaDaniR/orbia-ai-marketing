@@ -1,6 +1,6 @@
 ---
 name: taranis-04-multiplicador-multicanal
-description: Multiplicador de Contenido Multicanal de Taranis Black (equivalente al Gem 04 del curso). Toma un único Artículo-Semente o guion técnico y lo transforma automáticamente en piezas completas y nativas para Blog SEO, LinkedIn B2B, Carrusel de Instagram, E-mail Marketing y Newsletter.
+description: "Multiplicador de Contenido Multicanal de Taranis Black (equivalente al Gem 04 del curso). Toma un único Artículo-Semente o guion técnico y lo transforma automáticamente en piezas completas y nativas para Blog SEO, LinkedIn B2B, Carrusel de Instagram, E-mail Marketing y Newsletter."
 ---
 
 # Gem 04 — Multiplicador de Contenido Multicanal Taranis Black
