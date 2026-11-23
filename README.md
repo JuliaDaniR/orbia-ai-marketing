@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="public/assets/Logo-ORBIA.png" alt="ORBIA Logo" width="120" style="border-radius: 14px; box-shadow: 0 8px 24px rgba(168, 85, 247, 0.35);" />
+  <img src="public/assets/Logo-ORBIA.png" alt="ORBIA Logo" width="150" style="border-radius: 14px; box-shadow: 0 8px 24px rgba(168, 85, 247, 0.35);" />
 
   # 🚀 ORBIA · AI Marketing OS & Skill Orchestrator
   ### Sistema Integral de Gobernanza, Dirección Creativa Multicanal y Suite de Habilidades de IA
